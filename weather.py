@@ -1,7 +1,7 @@
 from envvar import key
 import requests
 api_key = key("ow_key")
-#api_key = '7223fdda660a42b97338de79091c1f28'
+#api_key = ''
 print(api_key)
 def weather_flag():
     print(200)
